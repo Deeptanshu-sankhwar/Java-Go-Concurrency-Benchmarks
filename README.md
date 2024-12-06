@@ -87,8 +87,6 @@ Contains scripts and result files for benchmarking Java's and Go's concurrency m
     
 3.  **CPU Utilization**: Tracks CPU usage during task execution.
     - ![CPU Utilization Comparison](./benchmarks/cpu_utilization_over_time.png)
-    
-4.  **Concurrency Overhead**: Measures the time difference between task completion and total concurrent overhead.
 
 ---
 
