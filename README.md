@@ -80,13 +80,13 @@ Contains scripts and result files for benchmarking Java's and Go's concurrency m
 #### **Metrics Evaluated**
 
 1.  **Execution Time**: Measures the time taken for all preprocessing tasks to complete.
-    - ![Execution Time Comparison](./benchmarks/execution_time_comparison.png)
+    ![Execution Time Comparison](./benchmarks/execution_time_comparison.png)
     
 2.  **Memory Usage**: Tracks memory allocation before and after task execution.
-    - ![Memory Usage Comparison](./benchmarks/memory_usage.png)
+    ![Memory Usage Comparison](./benchmarks/memory_usage.png)
     
 3.  **CPU Utilization**: Tracks CPU usage during task execution.
-    - ![CPU Utilization Comparison](./benchmarks/cpu_utilization_over_time.png)
+    ![CPU Utilization Comparison](./benchmarks/cpu_utilization_over_time.png)
 
 ---
 
