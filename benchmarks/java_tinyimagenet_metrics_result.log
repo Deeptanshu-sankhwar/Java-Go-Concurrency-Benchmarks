@@ -326,7 +326,7 @@ Concurrency Overhead for Run 54: 1.01 seconds
 Run 55/100...
 
 Execution Time for Run 55: 1.01 seconds
-Memory Usage for Run 55: -0.03 MB
+Memory Usage for Run 55: 0.00 MB
 CPU Utilization for Run 55: 8.93%
 Concurrency Overhead for Run 55: 1.01 seconds
 Run 56/100...
