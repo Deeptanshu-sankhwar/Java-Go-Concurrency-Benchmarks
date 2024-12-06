@@ -6,8 +6,11 @@ import (
 	"log"
 	"os"
 	"path/filepath"
+	"runtime"
 	"sync"
 	"time"
+
+	"github.com/shirou/gopsutil/cpu"
 )
 
 const (
@@ -72,8 +75,8 @@ func ProcessBatch(batch ImageBatch, wg *sync.WaitGroup) {
 	}
 }
 
-// RunProcessingTask runs the preprocessing task once and returns the execution time
-func RunProcessingTask(images [][]float32, labels []int) time.Duration {
+// RunProcessingTask runs the preprocessing task once and returns execution time and concurrency overhead
+func RunProcessingTask(images [][]float32, labels []int) (time.Duration, time.Duration) {
 	// Divide into batches
 	totalImages := len(images)
 	numBatches := totalImages / batchSize
@@ -88,7 +91,9 @@ func RunProcessingTask(images [][]float32, labels []int) time.Duration {
 	}
 
 	// Start concurrent processing
-	start := time.Now()
+	startOverhead := time.Now()
+	startExecution := time.Now()
+
 	var wg sync.WaitGroup
 	for _, batch := range batches {
 		wg.Add(1)
@@ -96,8 +101,9 @@ func RunProcessingTask(images [][]float32, labels []int) time.Duration {
 	}
 	wg.Wait()
 
-	// Return the execution time
-	return time.Since(start)
+	executionTime := time.Since(startExecution)
+	concurrencyOverhead := time.Since(startOverhead)
+	return executionTime, concurrencyOverhead
 }
 
 // AppendToLogFile appends a string to the specified log file
@@ -114,8 +120,17 @@ func AppendToLogFile(filePath, message string) error {
 	return nil
 }
 
+// calculateCPUUsage calculates average CPU utilization during a processing window
+func calculateCPUUsage(duration time.Duration) (float64, error) {
+	percentages, err := cpu.Percent(duration, false)
+	if err != nil {
+		return 0, err
+	}
+	return percentages[0], nil
+}
+
 func main() {
-	logFilePath := "result.log"
+	logFilePath := "go_cifar10_metrics_result.log"
 
 	// Load CIFAR-10 dataset
 	err := AppendToLogFile(logFilePath, "Loading CIFAR-10 dataset...")
@@ -126,25 +141,49 @@ func main() {
 	}
 	err = AppendToLogFile(logFilePath, "Dataset loaded successfully.")
 
-	// Print dataset parameters
 	err = AppendToLogFile(logFilePath, "\nDataset Parameters:")
 	err = AppendToLogFile(logFilePath, fmt.Sprintf("Total Images: %d\n", len(images)))
 	err = AppendToLogFile(logFilePath, fmt.Sprintf("Image Shape: %d x %d x %d (Height x Width x Channels)\n", imageHeight, imageWidth, channels))
 	err = AppendToLogFile(logFilePath, fmt.Sprintf("Number of Classes: %d\n", 10))
 
-	// Run the task numRuns times and record execution times
-	var totalTime time.Duration
-	executionTimes := make([]time.Duration, numRuns)
+	var totalExecutionTime, totalConcurrencyOverhead time.Duration
+	var totalMemoryUsage uint64
+	var totalCPUUsage float64
 
 	for i := 0; i < numRuns; i++ {
 		err = AppendToLogFile(logFilePath, fmt.Sprintf("\nRun %d/%d...\n", i+1, numRuns))
-		runTime := RunProcessingTask(images, labels)
-		executionTimes[i] = runTime
-		totalTime += runTime
-		err = AppendToLogFile(logFilePath, fmt.Sprintf("Execution Time for Run %d: %v\n", i+1, runTime))
+
+		var memStatsBefore runtime.MemStats
+		runtime.ReadMemStats(&memStatsBefore)
+		memoryBefore := memStatsBefore.Alloc
+
+		executionTime, concurrencyOverhead := RunProcessingTask(images, labels)
+
+		var memStatsAfter runtime.MemStats
+		runtime.ReadMemStats(&memStatsAfter)
+		memoryAfter := memStatsAfter.Alloc
+		memoryUsage := memoryAfter - memoryBefore
+
+		startCPUTime := time.Now()
+		cpuUsage, err := calculateCPUUsage(time.Since(startCPUTime))
+		if err != nil {
+			log.Fatalf("Error calculating CPU usage: %v", err)
+		}
+
+		totalExecutionTime += executionTime
+		totalConcurrencyOverhead += concurrencyOverhead
+		totalMemoryUsage += memoryUsage
+		totalCPUUsage += cpuUsage
+
+		err = AppendToLogFile(logFilePath, fmt.Sprintf("Execution Time for Run %d: %.2f seconds", i+1, executionTime.Seconds()))
+		err = AppendToLogFile(logFilePath, fmt.Sprintf("Concurrency Overhead for Run %d: %.2f seconds", i+1, concurrencyOverhead.Seconds()))
+		err = AppendToLogFile(logFilePath, fmt.Sprintf("Memory Usage for Run %d: %.2f MB", i+1, float64(memoryUsage)/(1024*1024)))
+		err = AppendToLogFile(logFilePath, fmt.Sprintf("CPU Utilization for Run %d: %.2f%%", i+1, cpuUsage*100))
 	}
 
-	// Calculate and print the average execution time
-	averageTime := totalTime / time.Duration(numRuns)
-	err = AppendToLogFile(logFilePath, fmt.Sprintf("\nAverage Execution Time after %d runs: %v\n", numRuns, averageTime))
+	err = AppendToLogFile(logFilePath, "\nAverage Metrics:")
+	err = AppendToLogFile(logFilePath, fmt.Sprintf("Average Execution Time: %.2f seconds", totalExecutionTime.Seconds()/float64(numRuns)))
+	err = AppendToLogFile(logFilePath, fmt.Sprintf("Average Concurrency Overhead: %.2f seconds", totalConcurrencyOverhead.Seconds()/float64(numRuns)))
+	err = AppendToLogFile(logFilePath, fmt.Sprintf("Average Memory Usage: %.2f MB", float64(totalMemoryUsage)/(float64(numRuns)*1024*1024)))
+	err = AppendToLogFile(logFilePath, fmt.Sprintf("Average CPU Utilization: %.2f%%", (totalCPUUsage/float64(numRuns))*100))
 }

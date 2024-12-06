@@ -1,0 +1,607 @@
+Loading Tiny ImageNet dataset with metrics monitoring...
+Run 1/100...
+
+Execution Time for Run 1: 4.02 seconds
+Memory Usage for Run 1: 0.01 MB
+CPU Utilization for Run 1: 0.00%
+Concurrency Overhead for Run 1: 4.02 seconds
+Run 2/100...
+
+Execution Time for Run 2: 1.01 seconds
+Memory Usage for Run 2: 0.00 MB
+CPU Utilization for Run 2: 11.05%
+Concurrency Overhead for Run 2: 1.01 seconds
+Run 3/100...
+
+Execution Time for Run 3: 1.01 seconds
+Memory Usage for Run 3: -0.00 MB
+CPU Utilization for Run 3: 8.96%
+Concurrency Overhead for Run 3: 1.01 seconds
+Run 4/100...
+
+Execution Time for Run 4: 1.01 seconds
+Memory Usage for Run 4: 0.00 MB
+CPU Utilization for Run 4: 8.98%
+Concurrency Overhead for Run 4: 1.01 seconds
+Run 5/100...
+
+Execution Time for Run 5: 1.01 seconds
+Memory Usage for Run 5: -0.00 MB
+CPU Utilization for Run 5: 9.01%
+Concurrency Overhead for Run 5: 1.01 seconds
+Run 6/100...
+
+Execution Time for Run 6: 1.01 seconds
+Memory Usage for Run 6: -0.00 MB
+CPU Utilization for Run 6: 8.98%
+Concurrency Overhead for Run 6: 1.01 seconds
+Run 7/100...
+
+Execution Time for Run 7: 1.01 seconds
+Memory Usage for Run 7: -0.00 MB
+CPU Utilization for Run 7: 9.01%
+Concurrency Overhead for Run 7: 1.01 seconds
+Run 8/100...
+
+Execution Time for Run 8: 1.01 seconds
+Memory Usage for Run 8: -0.00 MB
+CPU Utilization for Run 8: 8.98%
+Concurrency Overhead for Run 8: 1.01 seconds
+Run 9/100...
+
+Execution Time for Run 9: 1.01 seconds
+Memory Usage for Run 9: -0.00 MB
+CPU Utilization for Run 9: 9.01%
+Concurrency Overhead for Run 9: 1.01 seconds
+Run 10/100...
+
+Execution Time for Run 10: 1.01 seconds
+Memory Usage for Run 10: 0.00 MB
+CPU Utilization for Run 10: 8.93%
+Concurrency Overhead for Run 10: 1.01 seconds
+Run 11/100...
+
+Execution Time for Run 11: 1.01 seconds
+Memory Usage for Run 11: -0.00 MB
+CPU Utilization for Run 11: 8.97%
+Concurrency Overhead for Run 11: 1.01 seconds
+Run 12/100...
+
+Execution Time for Run 12: 1.01 seconds
+Memory Usage for Run 12: -0.00 MB
+CPU Utilization for Run 12: 9.02%
+Concurrency Overhead for Run 12: 1.01 seconds
+Run 13/100...
+
+Execution Time for Run 13: 1.01 seconds
+Memory Usage for Run 13: -0.00 MB
+CPU Utilization for Run 13: 8.97%
+Concurrency Overhead for Run 13: 1.01 seconds
+Run 14/100...
+
+Execution Time for Run 14: 1.01 seconds
+Memory Usage for Run 14: -0.00 MB
+CPU Utilization for Run 14: 9.40%
+Concurrency Overhead for Run 14: 1.01 seconds
+Run 15/100...
+
+Execution Time for Run 15: 1.01 seconds
+Memory Usage for Run 15: -0.00 MB
+CPU Utilization for Run 15: 8.90%
+Concurrency Overhead for Run 15: 1.01 seconds
+Run 16/100...
+
+Execution Time for Run 16: 1.01 seconds
+Memory Usage for Run 16: -0.00 MB
+CPU Utilization for Run 16: 9.01%
+Concurrency Overhead for Run 16: 1.01 seconds
+Run 17/100...
+
+Execution Time for Run 17: 1.01 seconds
+Memory Usage for Run 17: -0.00 MB
+CPU Utilization for Run 17: 8.98%
+Concurrency Overhead for Run 17: 1.01 seconds
+Run 18/100...
+
+Execution Time for Run 18: 1.01 seconds
+Memory Usage for Run 18: -0.00 MB
+CPU Utilization for Run 18: 9.12%
+Concurrency Overhead for Run 18: 1.01 seconds
+Run 19/100...
+
+Execution Time for Run 19: 1.01 seconds
+Memory Usage for Run 19: -0.00 MB
+CPU Utilization for Run 19: 9.06%
+Concurrency Overhead for Run 19: 1.01 seconds
+Run 20/100...
+
+Execution Time for Run 20: 1.01 seconds
+Memory Usage for Run 20: -0.00 MB
+CPU Utilization for Run 20: 8.98%
+Concurrency Overhead for Run 20: 1.01 seconds
+Run 21/100...
+
+Execution Time for Run 21: 1.01 seconds
+Memory Usage for Run 21: -0.00 MB
+CPU Utilization for Run 21: 8.91%
+Concurrency Overhead for Run 21: 1.01 seconds
+Run 22/100...
+
+Execution Time for Run 22: 1.01 seconds
+Memory Usage for Run 22: -0.00 MB
+CPU Utilization for Run 22: 9.06%
+Concurrency Overhead for Run 22: 1.01 seconds
+Run 23/100...
+
+Execution Time for Run 23: 1.01 seconds
+Memory Usage for Run 23: -0.00 MB
+CPU Utilization for Run 23: 8.93%
+Concurrency Overhead for Run 23: 1.01 seconds
+Run 24/100...
+
+Execution Time for Run 24: 1.01 seconds
+Memory Usage for Run 24: -0.00 MB
+CPU Utilization for Run 24: 9.00%
+Concurrency Overhead for Run 24: 1.01 seconds
+Run 25/100...
+
+Execution Time for Run 25: 1.01 seconds
+Memory Usage for Run 25: -0.00 MB
+CPU Utilization for Run 25: 8.99%
+Concurrency Overhead for Run 25: 1.01 seconds
+Run 26/100...
+
+Execution Time for Run 26: 1.01 seconds
+Memory Usage for Run 26: -0.00 MB
+CPU Utilization for Run 26: 9.01%
+Concurrency Overhead for Run 26: 1.01 seconds
+Run 27/100...
+
+Execution Time for Run 27: 1.01 seconds
+Memory Usage for Run 27: -0.00 MB
+CPU Utilization for Run 27: 8.97%
+Concurrency Overhead for Run 27: 1.01 seconds
+Run 28/100...
+
+Execution Time for Run 28: 1.01 seconds
+Memory Usage for Run 28: -0.00 MB
+CPU Utilization for Run 28: 9.01%
+Concurrency Overhead for Run 28: 1.01 seconds
+Run 29/100...
+
+Execution Time for Run 29: 1.01 seconds
+Memory Usage for Run 29: -0.00 MB
+CPU Utilization for Run 29: 8.76%
+Concurrency Overhead for Run 29: 1.01 seconds
+Run 30/100...
+
+Execution Time for Run 30: 1.01 seconds
+Memory Usage for Run 30: -0.00 MB
+CPU Utilization for Run 30: 8.92%
+Concurrency Overhead for Run 30: 1.01 seconds
+Run 31/100...
+
+Execution Time for Run 31: 1.01 seconds
+Memory Usage for Run 31: -0.00 MB
+CPU Utilization for Run 31: 8.93%
+Concurrency Overhead for Run 31: 1.01 seconds
+Run 32/100...
+
+Execution Time for Run 32: 1.01 seconds
+Memory Usage for Run 32: -0.00 MB
+CPU Utilization for Run 32: 8.33%
+Concurrency Overhead for Run 32: 1.01 seconds
+Run 33/100...
+
+Execution Time for Run 33: 1.01 seconds
+Memory Usage for Run 33: -0.00 MB
+CPU Utilization for Run 33: 9.02%
+Concurrency Overhead for Run 33: 1.01 seconds
+Run 34/100...
+
+Execution Time for Run 34: 1.01 seconds
+Memory Usage for Run 34: -0.00 MB
+CPU Utilization for Run 34: 8.94%
+Concurrency Overhead for Run 34: 1.01 seconds
+Run 35/100...
+
+Execution Time for Run 35: 1.01 seconds
+Memory Usage for Run 35: -0.00 MB
+CPU Utilization for Run 35: 8.93%
+Concurrency Overhead for Run 35: 1.01 seconds
+Run 36/100...
+
+Execution Time for Run 36: 1.01 seconds
+Memory Usage for Run 36: -0.00 MB
+CPU Utilization for Run 36: 8.72%
+Concurrency Overhead for Run 36: 1.01 seconds
+Run 37/100...
+
+Execution Time for Run 37: 1.01 seconds
+Memory Usage for Run 37: -0.00 MB
+CPU Utilization for Run 37: 8.88%
+Concurrency Overhead for Run 37: 1.01 seconds
+Run 38/100...
+
+Execution Time for Run 38: 1.01 seconds
+Memory Usage for Run 38: -0.00 MB
+CPU Utilization for Run 38: 9.02%
+Concurrency Overhead for Run 38: 1.01 seconds
+Run 39/100...
+
+Execution Time for Run 39: 1.01 seconds
+Memory Usage for Run 39: -0.00 MB
+CPU Utilization for Run 39: 9.01%
+Concurrency Overhead for Run 39: 1.01 seconds
+Run 40/100...
+
+Execution Time for Run 40: 1.01 seconds
+Memory Usage for Run 40: -0.00 MB
+CPU Utilization for Run 40: 8.94%
+Concurrency Overhead for Run 40: 1.01 seconds
+Run 41/100...
+
+Execution Time for Run 41: 1.01 seconds
+Memory Usage for Run 41: -0.00 MB
+CPU Utilization for Run 41: 8.91%
+Concurrency Overhead for Run 41: 1.01 seconds
+Run 42/100...
+
+Execution Time for Run 42: 1.01 seconds
+Memory Usage for Run 42: -0.00 MB
+CPU Utilization for Run 42: 8.99%
+Concurrency Overhead for Run 42: 1.01 seconds
+Run 43/100...
+
+Execution Time for Run 43: 1.01 seconds
+Memory Usage for Run 43: -0.00 MB
+CPU Utilization for Run 43: 8.92%
+Concurrency Overhead for Run 43: 1.01 seconds
+Run 44/100...
+
+Execution Time for Run 44: 1.01 seconds
+Memory Usage for Run 44: -0.00 MB
+CPU Utilization for Run 44: 8.96%
+Concurrency Overhead for Run 44: 1.01 seconds
+Run 45/100...
+
+Execution Time for Run 45: 1.01 seconds
+Memory Usage for Run 45: -0.00 MB
+CPU Utilization for Run 45: 9.02%
+Concurrency Overhead for Run 45: 1.01 seconds
+Run 46/100...
+
+Execution Time for Run 46: 1.01 seconds
+Memory Usage for Run 46: -0.00 MB
+CPU Utilization for Run 46: 8.65%
+Concurrency Overhead for Run 46: 1.01 seconds
+Run 47/100...
+
+Execution Time for Run 47: 1.01 seconds
+Memory Usage for Run 47: -0.00 MB
+CPU Utilization for Run 47: 8.94%
+Concurrency Overhead for Run 47: 1.01 seconds
+Run 48/100...
+
+Execution Time for Run 48: 1.01 seconds
+Memory Usage for Run 48: -0.00 MB
+CPU Utilization for Run 48: 9.46%
+Concurrency Overhead for Run 48: 1.01 seconds
+Run 49/100...
+
+Execution Time for Run 49: 1.01 seconds
+Memory Usage for Run 49: 0.00 MB
+CPU Utilization for Run 49: 8.85%
+Concurrency Overhead for Run 49: 1.01 seconds
+Run 50/100...
+
+Execution Time for Run 50: 1.00 seconds
+Memory Usage for Run 50: -0.00 MB
+CPU Utilization for Run 50: 8.68%
+Concurrency Overhead for Run 50: 1.00 seconds
+Run 51/100...
+
+Execution Time for Run 51: 1.01 seconds
+Memory Usage for Run 51: -0.00 MB
+CPU Utilization for Run 51: 10.85%
+Concurrency Overhead for Run 51: 1.01 seconds
+Run 52/100...
+
+Execution Time for Run 52: 1.01 seconds
+Memory Usage for Run 52: -0.00 MB
+CPU Utilization for Run 52: 8.89%
+Concurrency Overhead for Run 52: 1.01 seconds
+Run 53/100...
+
+Execution Time for Run 53: 1.01 seconds
+Memory Usage for Run 53: -0.00 MB
+CPU Utilization for Run 53: 9.09%
+Concurrency Overhead for Run 53: 1.01 seconds
+Run 54/100...
+
+Execution Time for Run 54: 1.01 seconds
+Memory Usage for Run 54: -0.00 MB
+CPU Utilization for Run 54: 8.97%
+Concurrency Overhead for Run 54: 1.01 seconds
+Run 55/100...
+
+Execution Time for Run 55: 1.01 seconds
+Memory Usage for Run 55: -0.03 MB
+CPU Utilization for Run 55: 8.93%
+Concurrency Overhead for Run 55: 1.01 seconds
+Run 56/100...
+
+Execution Time for Run 56: 1.01 seconds
+Memory Usage for Run 56: -0.00 MB
+CPU Utilization for Run 56: 8.98%
+Concurrency Overhead for Run 56: 1.01 seconds
+Run 57/100...
+
+Execution Time for Run 57: 1.01 seconds
+Memory Usage for Run 57: -0.00 MB
+CPU Utilization for Run 57: 8.98%
+Concurrency Overhead for Run 57: 1.01 seconds
+Run 58/100...
+
+Execution Time for Run 58: 1.01 seconds
+Memory Usage for Run 58: -0.00 MB
+CPU Utilization for Run 58: 9.04%
+Concurrency Overhead for Run 58: 1.01 seconds
+Run 59/100...
+
+Execution Time for Run 59: 1.01 seconds
+Memory Usage for Run 59: -0.00 MB
+CPU Utilization for Run 59: 9.04%
+Concurrency Overhead for Run 59: 1.01 seconds
+Run 60/100...
+
+Execution Time for Run 60: 1.01 seconds
+Memory Usage for Run 60: -0.00 MB
+CPU Utilization for Run 60: 9.08%
+Concurrency Overhead for Run 60: 1.01 seconds
+Run 61/100...
+
+Execution Time for Run 61: 1.01 seconds
+Memory Usage for Run 61: -0.00 MB
+CPU Utilization for Run 61: 9.01%
+Concurrency Overhead for Run 61: 1.01 seconds
+Run 62/100...
+
+Execution Time for Run 62: 1.01 seconds
+Memory Usage for Run 62: -0.00 MB
+CPU Utilization for Run 62: 9.06%
+Concurrency Overhead for Run 62: 1.01 seconds
+Run 63/100...
+
+Execution Time for Run 63: 1.01 seconds
+Memory Usage for Run 63: -0.00 MB
+CPU Utilization for Run 63: 9.02%
+Concurrency Overhead for Run 63: 1.01 seconds
+Run 64/100...
+
+Execution Time for Run 64: 1.01 seconds
+Memory Usage for Run 64: -0.00 MB
+CPU Utilization for Run 64: 9.01%
+Concurrency Overhead for Run 64: 1.01 seconds
+Run 65/100...
+
+Execution Time for Run 65: 1.01 seconds
+Memory Usage for Run 65: -0.00 MB
+CPU Utilization for Run 65: 9.29%
+Concurrency Overhead for Run 65: 1.01 seconds
+Run 66/100...
+
+Execution Time for Run 66: 1.01 seconds
+Memory Usage for Run 66: -0.00 MB
+CPU Utilization for Run 66: 9.02%
+Concurrency Overhead for Run 66: 1.01 seconds
+Run 67/100...
+
+Execution Time for Run 67: 1.01 seconds
+Memory Usage for Run 67: -0.00 MB
+CPU Utilization for Run 67: 8.99%
+Concurrency Overhead for Run 67: 1.01 seconds
+Run 68/100...
+
+Execution Time for Run 68: 1.01 seconds
+Memory Usage for Run 68: -0.00 MB
+CPU Utilization for Run 68: 8.97%
+Concurrency Overhead for Run 68: 1.01 seconds
+Run 69/100...
+
+Execution Time for Run 69: 1.01 seconds
+Memory Usage for Run 69: -0.00 MB
+CPU Utilization for Run 69: 9.04%
+Concurrency Overhead for Run 69: 1.01 seconds
+Run 70/100...
+
+Execution Time for Run 70: 1.01 seconds
+Memory Usage for Run 70: -0.00 MB
+CPU Utilization for Run 70: 9.00%
+Concurrency Overhead for Run 70: 1.01 seconds
+Run 71/100...
+
+Execution Time for Run 71: 1.01 seconds
+Memory Usage for Run 71: 0.00 MB
+CPU Utilization for Run 71: 9.02%
+Concurrency Overhead for Run 71: 1.01 seconds
+Run 72/100...
+
+Execution Time for Run 72: 1.01 seconds
+Memory Usage for Run 72: -0.00 MB
+CPU Utilization for Run 72: 8.98%
+Concurrency Overhead for Run 72: 1.01 seconds
+Run 73/100...
+
+Execution Time for Run 73: 1.01 seconds
+Memory Usage for Run 73: -0.00 MB
+CPU Utilization for Run 73: 9.11%
+Concurrency Overhead for Run 73: 1.01 seconds
+Run 74/100...
+
+Execution Time for Run 74: 1.01 seconds
+Memory Usage for Run 74: -0.00 MB
+CPU Utilization for Run 74: 8.96%
+Concurrency Overhead for Run 74: 1.01 seconds
+Run 75/100...
+
+Execution Time for Run 75: 1.01 seconds
+Memory Usage for Run 75: -0.00 MB
+CPU Utilization for Run 75: 9.03%
+Concurrency Overhead for Run 75: 1.01 seconds
+Run 76/100...
+
+Execution Time for Run 76: 1.01 seconds
+Memory Usage for Run 76: -0.00 MB
+CPU Utilization for Run 76: 9.03%
+Concurrency Overhead for Run 76: 1.01 seconds
+Run 77/100...
+
+Execution Time for Run 77: 1.01 seconds
+Memory Usage for Run 77: -0.00 MB
+CPU Utilization for Run 77: 9.02%
+Concurrency Overhead for Run 77: 1.01 seconds
+Run 78/100...
+
+Execution Time for Run 78: 1.01 seconds
+Memory Usage for Run 78: -0.00 MB
+CPU Utilization for Run 78: 9.02%
+Concurrency Overhead for Run 78: 1.01 seconds
+Run 79/100...
+
+Execution Time for Run 79: 1.01 seconds
+Memory Usage for Run 79: -0.00 MB
+CPU Utilization for Run 79: 9.04%
+Concurrency Overhead for Run 79: 1.01 seconds
+Run 80/100...
+
+Execution Time for Run 80: 1.01 seconds
+Memory Usage for Run 80: -0.00 MB
+CPU Utilization for Run 80: 9.01%
+Concurrency Overhead for Run 80: 1.01 seconds
+Run 81/100...
+
+Execution Time for Run 81: 1.01 seconds
+Memory Usage for Run 81: -0.00 MB
+CPU Utilization for Run 81: 8.97%
+Concurrency Overhead for Run 81: 1.01 seconds
+Run 82/100...
+
+Execution Time for Run 82: 1.01 seconds
+Memory Usage for Run 82: -0.00 MB
+CPU Utilization for Run 82: 9.02%
+Concurrency Overhead for Run 82: 1.01 seconds
+Run 83/100...
+
+Execution Time for Run 83: 1.01 seconds
+Memory Usage for Run 83: -0.00 MB
+CPU Utilization for Run 83: 9.03%
+Concurrency Overhead for Run 83: 1.01 seconds
+Run 84/100...
+
+Execution Time for Run 84: 1.01 seconds
+Memory Usage for Run 84: -0.00 MB
+CPU Utilization for Run 84: 8.97%
+Concurrency Overhead for Run 84: 1.01 seconds
+Run 85/100...
+
+Execution Time for Run 85: 1.01 seconds
+Memory Usage for Run 85: -0.00 MB
+CPU Utilization for Run 85: 9.07%
+Concurrency Overhead for Run 85: 1.01 seconds
+Run 86/100...
+
+Execution Time for Run 86: 1.01 seconds
+Memory Usage for Run 86: -0.00 MB
+CPU Utilization for Run 86: 8.90%
+Concurrency Overhead for Run 86: 1.01 seconds
+Run 87/100...
+
+Execution Time for Run 87: 1.01 seconds
+Memory Usage for Run 87: -0.00 MB
+CPU Utilization for Run 87: 8.99%
+Concurrency Overhead for Run 87: 1.01 seconds
+Run 88/100...
+
+Execution Time for Run 88: 1.01 seconds
+Memory Usage for Run 88: -0.00 MB
+CPU Utilization for Run 88: 8.94%
+Concurrency Overhead for Run 88: 1.01 seconds
+Run 89/100...
+
+Execution Time for Run 89: 1.01 seconds
+Memory Usage for Run 89: -0.00 MB
+CPU Utilization for Run 89: 9.02%
+Concurrency Overhead for Run 89: 1.01 seconds
+Run 90/100...
+
+Execution Time for Run 90: 1.01 seconds
+Memory Usage for Run 90: -0.00 MB
+CPU Utilization for Run 90: 8.95%
+Concurrency Overhead for Run 90: 1.01 seconds
+Run 91/100...
+
+Execution Time for Run 91: 1.01 seconds
+Memory Usage for Run 91: 0.00 MB
+CPU Utilization for Run 91: 9.02%
+Concurrency Overhead for Run 91: 1.01 seconds
+Run 92/100...
+
+Execution Time for Run 92: 1.01 seconds
+Memory Usage for Run 92: -0.00 MB
+CPU Utilization for Run 92: 9.15%
+Concurrency Overhead for Run 92: 1.01 seconds
+Run 93/100...
+
+Execution Time for Run 93: 1.01 seconds
+Memory Usage for Run 93: -0.00 MB
+CPU Utilization for Run 93: 8.98%
+Concurrency Overhead for Run 93: 1.01 seconds
+Run 94/100...
+
+Execution Time for Run 94: 1.01 seconds
+Memory Usage for Run 94: -0.00 MB
+CPU Utilization for Run 94: 9.00%
+Concurrency Overhead for Run 94: 1.01 seconds
+Run 95/100...
+
+Execution Time for Run 95: 1.01 seconds
+Memory Usage for Run 95: 0.00 MB
+CPU Utilization for Run 95: 9.02%
+Concurrency Overhead for Run 95: 1.01 seconds
+Run 96/100...
+
+Execution Time for Run 96: 1.01 seconds
+Memory Usage for Run 96: -0.00 MB
+CPU Utilization for Run 96: 9.02%
+Concurrency Overhead for Run 96: 1.01 seconds
+Run 97/100...
+
+Execution Time for Run 97: 1.01 seconds
+Memory Usage for Run 97: -0.00 MB
+CPU Utilization for Run 97: 9.03%
+Concurrency Overhead for Run 97: 1.01 seconds
+Run 98/100...
+
+Execution Time for Run 98: 1.01 seconds
+Memory Usage for Run 98: -0.00 MB
+CPU Utilization for Run 98: 8.93%
+Concurrency Overhead for Run 98: 1.01 seconds
+Run 99/100...
+
+Execution Time for Run 99: 1.01 seconds
+Memory Usage for Run 99: -0.00 MB
+CPU Utilization for Run 99: 8.97%
+Concurrency Overhead for Run 99: 1.01 seconds
+Run 100/100...
+
+Execution Time for Run 100: 1.01 seconds
+Memory Usage for Run 100: -0.00 MB
+CPU Utilization for Run 100: 8.98%
+Concurrency Overhead for Run 100: 1.01 seconds
+
+Average Metrics Across Runs:
+Average Execution Time: 1.04 seconds
+Average Memory Usage: -0.00 MB
+Average CPU Utilization: 8.93%
+Average Concurrency Overhead: 1.04 seconds

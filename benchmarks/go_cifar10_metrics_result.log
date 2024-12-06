@@ -1,0 +1,716 @@
+2024/12/05 22:45:52 Loading CIFAR-10 dataset...
+2024/12/05 22:45:53 Dataset loaded successfully.
+2024/12/05 22:45:53 
+Dataset Parameters:
+2024/12/05 22:45:53 Total Images: 50000
+
+2024/12/05 22:45:53 Image Shape: 32 x 32 x 3 (Height x Width x Channels)
+
+2024/12/05 22:45:53 Number of Classes: 10
+
+2024/12/05 22:45:53 
+Run 1/100...
+
+2024/12/05 22:45:53 Execution Time for Run 1: 0.03 seconds
+2024/12/05 22:45:53 Concurrency Overhead for Run 1: 0.03 seconds
+2024/12/05 22:45:53 Memory Usage for Run 1: 0.07 MB
+2024/12/05 22:45:53 CPU Utilization for Run 1: 0.00%
+2024/12/05 22:45:53 
+Run 2/100...
+
+2024/12/05 22:45:53 Execution Time for Run 2: 0.02 seconds
+2024/12/05 22:45:53 Concurrency Overhead for Run 2: 0.02 seconds
+2024/12/05 22:45:53 Memory Usage for Run 2: 0.05 MB
+2024/12/05 22:45:53 CPU Utilization for Run 2: 0.00%
+2024/12/05 22:45:53 
+Run 3/100...
+
+2024/12/05 22:45:53 Execution Time for Run 3: 0.03 seconds
+2024/12/05 22:45:53 Concurrency Overhead for Run 3: 0.03 seconds
+2024/12/05 22:45:53 Memory Usage for Run 3: 0.05 MB
+2024/12/05 22:45:53 CPU Utilization for Run 3: 0.00%
+2024/12/05 22:45:53 
+Run 4/100...
+
+2024/12/05 22:45:53 Execution Time for Run 4: 0.02 seconds
+2024/12/05 22:45:53 Concurrency Overhead for Run 4: 0.02 seconds
+2024/12/05 22:45:53 Memory Usage for Run 4: 0.04 MB
+2024/12/05 22:45:53 CPU Utilization for Run 4: 0.00%
+2024/12/05 22:45:53 
+Run 5/100...
+
+2024/12/05 22:45:53 Execution Time for Run 5: 0.03 seconds
+2024/12/05 22:45:53 Concurrency Overhead for Run 5: 0.03 seconds
+2024/12/05 22:45:53 Memory Usage for Run 5: 0.05 MB
+2024/12/05 22:45:53 CPU Utilization for Run 5: 0.00%
+2024/12/05 22:45:53 
+Run 6/100...
+
+2024/12/05 22:45:53 Execution Time for Run 6: 0.03 seconds
+2024/12/05 22:45:53 Concurrency Overhead for Run 6: 0.03 seconds
+2024/12/05 22:45:53 Memory Usage for Run 6: 0.01 MB
+2024/12/05 22:45:53 CPU Utilization for Run 6: 0.00%
+2024/12/05 22:45:53 
+Run 7/100...
+
+2024/12/05 22:45:54 Execution Time for Run 7: 0.03 seconds
+2024/12/05 22:45:54 Concurrency Overhead for Run 7: 0.03 seconds
+2024/12/05 22:45:54 Memory Usage for Run 7: 0.01 MB
+2024/12/05 22:45:54 CPU Utilization for Run 7: 0.00%
+2024/12/05 22:45:54 
+Run 8/100...
+
+2024/12/05 22:45:54 Execution Time for Run 8: 0.03 seconds
+2024/12/05 22:45:54 Concurrency Overhead for Run 8: 0.03 seconds
+2024/12/05 22:45:54 Memory Usage for Run 8: 0.01 MB
+2024/12/05 22:45:54 CPU Utilization for Run 8: 0.00%
+2024/12/05 22:45:54 
+Run 9/100...
+
+2024/12/05 22:45:54 Execution Time for Run 9: 0.03 seconds
+2024/12/05 22:45:54 Concurrency Overhead for Run 9: 0.03 seconds
+2024/12/05 22:45:54 Memory Usage for Run 9: 0.02 MB
+2024/12/05 22:45:54 CPU Utilization for Run 9: 0.00%
+2024/12/05 22:45:54 
+Run 10/100...
+
+2024/12/05 22:45:54 Execution Time for Run 10: 0.03 seconds
+2024/12/05 22:45:54 Concurrency Overhead for Run 10: 0.03 seconds
+2024/12/05 22:45:54 Memory Usage for Run 10: 0.01 MB
+2024/12/05 22:45:54 CPU Utilization for Run 10: 0.00%
+2024/12/05 22:45:54 
+Run 11/100...
+
+2024/12/05 22:45:54 Execution Time for Run 11: 0.03 seconds
+2024/12/05 22:45:54 Concurrency Overhead for Run 11: 0.03 seconds
+2024/12/05 22:45:54 Memory Usage for Run 11: 0.01 MB
+2024/12/05 22:45:54 CPU Utilization for Run 11: 0.00%
+2024/12/05 22:45:54 
+Run 12/100...
+
+2024/12/05 22:45:54 Execution Time for Run 12: 0.03 seconds
+2024/12/05 22:45:54 Concurrency Overhead for Run 12: 0.03 seconds
+2024/12/05 22:45:54 Memory Usage for Run 12: 0.02 MB
+2024/12/05 22:45:54 CPU Utilization for Run 12: 0.00%
+2024/12/05 22:45:54 
+Run 13/100...
+
+2024/12/05 22:45:54 Execution Time for Run 13: 0.02 seconds
+2024/12/05 22:45:54 Concurrency Overhead for Run 13: 0.02 seconds
+2024/12/05 22:45:54 Memory Usage for Run 13: 0.01 MB
+2024/12/05 22:45:54 CPU Utilization for Run 13: 0.00%
+2024/12/05 22:45:54 
+Run 14/100...
+
+2024/12/05 22:45:55 Execution Time for Run 14: 0.03 seconds
+2024/12/05 22:45:55 Concurrency Overhead for Run 14: 0.03 seconds
+2024/12/05 22:45:55 Memory Usage for Run 14: 0.01 MB
+2024/12/05 22:45:55 CPU Utilization for Run 14: 0.00%
+2024/12/05 22:45:55 
+Run 15/100...
+
+2024/12/05 22:45:55 Execution Time for Run 15: 0.02 seconds
+2024/12/05 22:45:55 Concurrency Overhead for Run 15: 0.02 seconds
+2024/12/05 22:45:55 Memory Usage for Run 15: 0.01 MB
+2024/12/05 22:45:55 CPU Utilization for Run 15: 0.00%
+2024/12/05 22:45:55 
+Run 16/100...
+
+2024/12/05 22:45:55 Execution Time for Run 16: 0.02 seconds
+2024/12/05 22:45:55 Concurrency Overhead for Run 16: 0.02 seconds
+2024/12/05 22:45:55 Memory Usage for Run 16: 0.01 MB
+2024/12/05 22:45:55 CPU Utilization for Run 16: 0.00%
+2024/12/05 22:45:55 
+Run 17/100...
+
+2024/12/05 22:45:55 Execution Time for Run 17: 0.02 seconds
+2024/12/05 22:45:55 Concurrency Overhead for Run 17: 0.02 seconds
+2024/12/05 22:45:55 Memory Usage for Run 17: 0.01 MB
+2024/12/05 22:45:55 CPU Utilization for Run 17: 0.00%
+2024/12/05 22:45:55 
+Run 18/100...
+
+2024/12/05 22:45:55 Execution Time for Run 18: 0.02 seconds
+2024/12/05 22:45:55 Concurrency Overhead for Run 18: 0.02 seconds
+2024/12/05 22:45:55 Memory Usage for Run 18: 0.01 MB
+2024/12/05 22:45:55 CPU Utilization for Run 18: 0.00%
+2024/12/05 22:45:55 
+Run 19/100...
+
+2024/12/05 22:45:55 Execution Time for Run 19: 0.03 seconds
+2024/12/05 22:45:55 Concurrency Overhead for Run 19: 0.03 seconds
+2024/12/05 22:45:55 Memory Usage for Run 19: 0.01 MB
+2024/12/05 22:45:55 CPU Utilization for Run 19: 0.00%
+2024/12/05 22:45:55 
+Run 20/100...
+
+2024/12/05 22:45:55 Execution Time for Run 20: 0.03 seconds
+2024/12/05 22:45:55 Concurrency Overhead for Run 20: 0.03 seconds
+2024/12/05 22:45:55 Memory Usage for Run 20: 0.01 MB
+2024/12/05 22:45:55 CPU Utilization for Run 20: 0.00%
+2024/12/05 22:45:55 
+Run 21/100...
+
+2024/12/05 22:45:55 Execution Time for Run 21: 0.03 seconds
+2024/12/05 22:45:55 Concurrency Overhead for Run 21: 0.03 seconds
+2024/12/05 22:45:55 Memory Usage for Run 21: 0.01 MB
+2024/12/05 22:45:55 CPU Utilization for Run 21: 0.00%
+2024/12/05 22:45:55 
+Run 22/100...
+
+2024/12/05 22:45:56 Execution Time for Run 22: 0.03 seconds
+2024/12/05 22:45:56 Concurrency Overhead for Run 22: 0.03 seconds
+2024/12/05 22:45:56 Memory Usage for Run 22: 0.01 MB
+2024/12/05 22:45:56 CPU Utilization for Run 22: 0.00%
+2024/12/05 22:45:56 
+Run 23/100...
+
+2024/12/05 22:45:56 Execution Time for Run 23: 0.03 seconds
+2024/12/05 22:45:56 Concurrency Overhead for Run 23: 0.03 seconds
+2024/12/05 22:45:56 Memory Usage for Run 23: 0.01 MB
+2024/12/05 22:45:56 CPU Utilization for Run 23: 0.00%
+2024/12/05 22:45:56 
+Run 24/100...
+
+2024/12/05 22:45:56 Execution Time for Run 24: 0.03 seconds
+2024/12/05 22:45:56 Concurrency Overhead for Run 24: 0.03 seconds
+2024/12/05 22:45:56 Memory Usage for Run 24: 0.01 MB
+2024/12/05 22:45:56 CPU Utilization for Run 24: 0.00%
+2024/12/05 22:45:56 
+Run 25/100...
+
+2024/12/05 22:45:56 Execution Time for Run 25: 0.03 seconds
+2024/12/05 22:45:56 Concurrency Overhead for Run 25: 0.03 seconds
+2024/12/05 22:45:56 Memory Usage for Run 25: 0.01 MB
+2024/12/05 22:45:56 CPU Utilization for Run 25: 0.00%
+2024/12/05 22:45:56 
+Run 26/100...
+
+2024/12/05 22:45:56 Execution Time for Run 26: 0.03 seconds
+2024/12/05 22:45:56 Concurrency Overhead for Run 26: 0.03 seconds
+2024/12/05 22:45:56 Memory Usage for Run 26: 0.01 MB
+2024/12/05 22:45:56 CPU Utilization for Run 26: 0.00%
+2024/12/05 22:45:56 
+Run 27/100...
+
+2024/12/05 22:45:56 Execution Time for Run 27: 0.03 seconds
+2024/12/05 22:45:56 Concurrency Overhead for Run 27: 0.03 seconds
+2024/12/05 22:45:56 Memory Usage for Run 27: 0.01 MB
+2024/12/05 22:45:56 CPU Utilization for Run 27: 0.00%
+2024/12/05 22:45:56 
+Run 28/100...
+
+2024/12/05 22:45:56 Execution Time for Run 28: 0.03 seconds
+2024/12/05 22:45:56 Concurrency Overhead for Run 28: 0.03 seconds
+2024/12/05 22:45:56 Memory Usage for Run 28: 0.01 MB
+2024/12/05 22:45:56 CPU Utilization for Run 28: 0.00%
+2024/12/05 22:45:56 
+Run 29/100...
+
+2024/12/05 22:45:56 Execution Time for Run 29: 0.03 seconds
+2024/12/05 22:45:56 Concurrency Overhead for Run 29: 0.03 seconds
+2024/12/05 22:45:56 Memory Usage for Run 29: 0.01 MB
+2024/12/05 22:45:56 CPU Utilization for Run 29: 0.00%
+2024/12/05 22:45:56 
+Run 30/100...
+
+2024/12/05 22:45:57 Execution Time for Run 30: 0.03 seconds
+2024/12/05 22:45:57 Concurrency Overhead for Run 30: 0.03 seconds
+2024/12/05 22:45:57 Memory Usage for Run 30: 0.01 MB
+2024/12/05 22:45:57 CPU Utilization for Run 30: 0.00%
+2024/12/05 22:45:57 
+Run 31/100...
+
+2024/12/05 22:45:57 Execution Time for Run 31: 0.03 seconds
+2024/12/05 22:45:57 Concurrency Overhead for Run 31: 0.03 seconds
+2024/12/05 22:45:57 Memory Usage for Run 31: 0.01 MB
+2024/12/05 22:45:57 CPU Utilization for Run 31: 0.00%
+2024/12/05 22:45:57 
+Run 32/100...
+
+2024/12/05 22:45:57 Execution Time for Run 32: 0.04 seconds
+2024/12/05 22:45:57 Concurrency Overhead for Run 32: 0.04 seconds
+2024/12/05 22:45:57 Memory Usage for Run 32: 0.01 MB
+2024/12/05 22:45:57 CPU Utilization for Run 32: 0.00%
+2024/12/05 22:45:57 
+Run 33/100...
+
+2024/12/05 22:45:57 Execution Time for Run 33: 0.03 seconds
+2024/12/05 22:45:57 Concurrency Overhead for Run 33: 0.03 seconds
+2024/12/05 22:45:57 Memory Usage for Run 33: 0.01 MB
+2024/12/05 22:45:57 CPU Utilization for Run 33: 0.00%
+2024/12/05 22:45:57 
+Run 34/100...
+
+2024/12/05 22:45:57 Execution Time for Run 34: 0.07 seconds
+2024/12/05 22:45:57 Concurrency Overhead for Run 34: 0.07 seconds
+2024/12/05 22:45:57 Memory Usage for Run 34: 0.01 MB
+2024/12/05 22:45:57 CPU Utilization for Run 34: 0.00%
+2024/12/05 22:45:57 
+Run 35/100...
+
+2024/12/05 22:45:57 Execution Time for Run 35: 0.03 seconds
+2024/12/05 22:45:57 Concurrency Overhead for Run 35: 0.03 seconds
+2024/12/05 22:45:57 Memory Usage for Run 35: 0.01 MB
+2024/12/05 22:45:57 CPU Utilization for Run 35: 0.00%
+2024/12/05 22:45:57 
+Run 36/100...
+
+2024/12/05 22:45:57 Execution Time for Run 36: 0.03 seconds
+2024/12/05 22:45:57 Concurrency Overhead for Run 36: 0.03 seconds
+2024/12/05 22:45:57 Memory Usage for Run 36: 0.01 MB
+2024/12/05 22:45:57 CPU Utilization for Run 36: 0.00%
+2024/12/05 22:45:57 
+Run 37/100...
+
+2024/12/05 22:45:58 Execution Time for Run 37: 0.03 seconds
+2024/12/05 22:45:58 Concurrency Overhead for Run 37: 0.03 seconds
+2024/12/05 22:45:58 Memory Usage for Run 37: 0.01 MB
+2024/12/05 22:45:58 CPU Utilization for Run 37: 0.00%
+2024/12/05 22:45:58 
+Run 38/100...
+
+2024/12/05 22:45:58 Execution Time for Run 38: 0.03 seconds
+2024/12/05 22:45:58 Concurrency Overhead for Run 38: 0.03 seconds
+2024/12/05 22:45:58 Memory Usage for Run 38: 0.01 MB
+2024/12/05 22:45:58 CPU Utilization for Run 38: 0.00%
+2024/12/05 22:45:58 
+Run 39/100...
+
+2024/12/05 22:45:58 Execution Time for Run 39: 0.03 seconds
+2024/12/05 22:45:58 Concurrency Overhead for Run 39: 0.03 seconds
+2024/12/05 22:45:58 Memory Usage for Run 39: 0.01 MB
+2024/12/05 22:45:58 CPU Utilization for Run 39: 0.00%
+2024/12/05 22:45:58 
+Run 40/100...
+
+2024/12/05 22:45:58 Execution Time for Run 40: 0.03 seconds
+2024/12/05 22:45:58 Concurrency Overhead for Run 40: 0.03 seconds
+2024/12/05 22:45:58 Memory Usage for Run 40: 0.01 MB
+2024/12/05 22:45:58 CPU Utilization for Run 40: 0.00%
+2024/12/05 22:45:58 
+Run 41/100...
+
+2024/12/05 22:45:58 Execution Time for Run 41: 0.03 seconds
+2024/12/05 22:45:58 Concurrency Overhead for Run 41: 0.03 seconds
+2024/12/05 22:45:58 Memory Usage for Run 41: 0.01 MB
+2024/12/05 22:45:58 CPU Utilization for Run 41: 0.00%
+2024/12/05 22:45:58 
+Run 42/100...
+
+2024/12/05 22:45:58 Execution Time for Run 42: 0.03 seconds
+2024/12/05 22:45:58 Concurrency Overhead for Run 42: 0.03 seconds
+2024/12/05 22:45:58 Memory Usage for Run 42: 0.01 MB
+2024/12/05 22:45:58 CPU Utilization for Run 42: 0.00%
+2024/12/05 22:45:58 
+Run 43/100...
+
+2024/12/05 22:45:58 Execution Time for Run 43: 0.03 seconds
+2024/12/05 22:45:58 Concurrency Overhead for Run 43: 0.03 seconds
+2024/12/05 22:45:58 Memory Usage for Run 43: 0.01 MB
+2024/12/05 22:45:58 CPU Utilization for Run 43: 0.00%
+2024/12/05 22:45:58 
+Run 44/100...
+
+2024/12/05 22:45:59 Execution Time for Run 44: 0.03 seconds
+2024/12/05 22:45:59 Concurrency Overhead for Run 44: 0.03 seconds
+2024/12/05 22:45:59 Memory Usage for Run 44: 0.01 MB
+2024/12/05 22:45:59 CPU Utilization for Run 44: 0.00%
+2024/12/05 22:45:59 
+Run 45/100...
+
+2024/12/05 22:45:59 Execution Time for Run 45: 0.03 seconds
+2024/12/05 22:45:59 Concurrency Overhead for Run 45: 0.03 seconds
+2024/12/05 22:45:59 Memory Usage for Run 45: 0.01 MB
+2024/12/05 22:45:59 CPU Utilization for Run 45: 0.00%
+2024/12/05 22:45:59 
+Run 46/100...
+
+2024/12/05 22:45:59 Execution Time for Run 46: 0.03 seconds
+2024/12/05 22:45:59 Concurrency Overhead for Run 46: 0.03 seconds
+2024/12/05 22:45:59 Memory Usage for Run 46: 0.01 MB
+2024/12/05 22:45:59 CPU Utilization for Run 46: 0.00%
+2024/12/05 22:45:59 
+Run 47/100...
+
+2024/12/05 22:45:59 Execution Time for Run 47: 0.03 seconds
+2024/12/05 22:45:59 Concurrency Overhead for Run 47: 0.03 seconds
+2024/12/05 22:45:59 Memory Usage for Run 47: 0.01 MB
+2024/12/05 22:45:59 CPU Utilization for Run 47: 0.00%
+2024/12/05 22:45:59 
+Run 48/100...
+
+2024/12/05 22:45:59 Execution Time for Run 48: 0.03 seconds
+2024/12/05 22:45:59 Concurrency Overhead for Run 48: 0.03 seconds
+2024/12/05 22:45:59 Memory Usage for Run 48: 0.01 MB
+2024/12/05 22:45:59 CPU Utilization for Run 48: 0.00%
+2024/12/05 22:45:59 
+Run 49/100...
+
+2024/12/05 22:45:59 Execution Time for Run 49: 0.03 seconds
+2024/12/05 22:45:59 Concurrency Overhead for Run 49: 0.03 seconds
+2024/12/05 22:45:59 Memory Usage for Run 49: 0.01 MB
+2024/12/05 22:45:59 CPU Utilization for Run 49: 0.00%
+2024/12/05 22:45:59 
+Run 50/100...
+
+2024/12/05 22:45:59 Execution Time for Run 50: 0.03 seconds
+2024/12/05 22:45:59 Concurrency Overhead for Run 50: 0.03 seconds
+2024/12/05 22:45:59 Memory Usage for Run 50: 0.01 MB
+2024/12/05 22:45:59 CPU Utilization for Run 50: 0.00%
+2024/12/05 22:45:59 
+Run 51/100...
+
+2024/12/05 22:45:59 Execution Time for Run 51: 0.03 seconds
+2024/12/05 22:45:59 Concurrency Overhead for Run 51: 0.03 seconds
+2024/12/05 22:45:59 Memory Usage for Run 51: 0.01 MB
+2024/12/05 22:45:59 CPU Utilization for Run 51: 0.00%
+2024/12/05 22:45:59 
+Run 52/100...
+
+2024/12/05 22:46:00 Execution Time for Run 52: 0.03 seconds
+2024/12/05 22:46:00 Concurrency Overhead for Run 52: 0.03 seconds
+2024/12/05 22:46:00 Memory Usage for Run 52: 0.01 MB
+2024/12/05 22:46:00 CPU Utilization for Run 52: 0.00%
+2024/12/05 22:46:00 
+Run 53/100...
+
+2024/12/05 22:46:00 Execution Time for Run 53: 0.03 seconds
+2024/12/05 22:46:00 Concurrency Overhead for Run 53: 0.03 seconds
+2024/12/05 22:46:00 Memory Usage for Run 53: 0.01 MB
+2024/12/05 22:46:00 CPU Utilization for Run 53: 0.00%
+2024/12/05 22:46:00 
+Run 54/100...
+
+2024/12/05 22:46:00 Execution Time for Run 54: 0.04 seconds
+2024/12/05 22:46:00 Concurrency Overhead for Run 54: 0.04 seconds
+2024/12/05 22:46:00 Memory Usage for Run 54: 0.01 MB
+2024/12/05 22:46:00 CPU Utilization for Run 54: 0.00%
+2024/12/05 22:46:00 
+Run 55/100...
+
+2024/12/05 22:46:00 Execution Time for Run 55: 0.03 seconds
+2024/12/05 22:46:00 Concurrency Overhead for Run 55: 0.03 seconds
+2024/12/05 22:46:00 Memory Usage for Run 55: 0.01 MB
+2024/12/05 22:46:00 CPU Utilization for Run 55: 0.00%
+2024/12/05 22:46:00 
+Run 56/100...
+
+2024/12/05 22:46:00 Execution Time for Run 56: 0.03 seconds
+2024/12/05 22:46:00 Concurrency Overhead for Run 56: 0.03 seconds
+2024/12/05 22:46:00 Memory Usage for Run 56: 0.01 MB
+2024/12/05 22:46:00 CPU Utilization for Run 56: 0.00%
+2024/12/05 22:46:00 
+Run 57/100...
+
+2024/12/05 22:46:00 Execution Time for Run 57: 0.03 seconds
+2024/12/05 22:46:00 Concurrency Overhead for Run 57: 0.03 seconds
+2024/12/05 22:46:00 Memory Usage for Run 57: 0.01 MB
+2024/12/05 22:46:00 CPU Utilization for Run 57: 0.00%
+2024/12/05 22:46:00 
+Run 58/100...
+
+2024/12/05 22:46:00 Execution Time for Run 58: 0.03 seconds
+2024/12/05 22:46:00 Concurrency Overhead for Run 58: 0.03 seconds
+2024/12/05 22:46:00 Memory Usage for Run 58: 0.01 MB
+2024/12/05 22:46:00 CPU Utilization for Run 58: 0.00%
+2024/12/05 22:46:00 
+Run 59/100...
+
+2024/12/05 22:46:01 Execution Time for Run 59: 0.08 seconds
+2024/12/05 22:46:01 Concurrency Overhead for Run 59: 0.08 seconds
+2024/12/05 22:46:01 Memory Usage for Run 59: 0.01 MB
+2024/12/05 22:46:01 CPU Utilization for Run 59: 0.00%
+2024/12/05 22:46:01 
+Run 60/100...
+
+2024/12/05 22:46:01 Execution Time for Run 60: 0.03 seconds
+2024/12/05 22:46:01 Concurrency Overhead for Run 60: 0.03 seconds
+2024/12/05 22:46:01 Memory Usage for Run 60: 0.02 MB
+2024/12/05 22:46:01 CPU Utilization for Run 60: 0.00%
+2024/12/05 22:46:01 
+Run 61/100...
+
+2024/12/05 22:46:01 Execution Time for Run 61: 0.03 seconds
+2024/12/05 22:46:01 Concurrency Overhead for Run 61: 0.03 seconds
+2024/12/05 22:46:01 Memory Usage for Run 61: 0.01 MB
+2024/12/05 22:46:01 CPU Utilization for Run 61: 0.00%
+2024/12/05 22:46:01 
+Run 62/100...
+
+2024/12/05 22:46:01 Execution Time for Run 62: 0.03 seconds
+2024/12/05 22:46:01 Concurrency Overhead for Run 62: 0.03 seconds
+2024/12/05 22:46:01 Memory Usage for Run 62: 0.01 MB
+2024/12/05 22:46:01 CPU Utilization for Run 62: 0.00%
+2024/12/05 22:46:01 
+Run 63/100...
+
+2024/12/05 22:46:01 Execution Time for Run 63: 0.03 seconds
+2024/12/05 22:46:01 Concurrency Overhead for Run 63: 0.03 seconds
+2024/12/05 22:46:01 Memory Usage for Run 63: 0.01 MB
+2024/12/05 22:46:01 CPU Utilization for Run 63: 0.00%
+2024/12/05 22:46:01 
+Run 64/100...
+
+2024/12/05 22:46:01 Execution Time for Run 64: 0.03 seconds
+2024/12/05 22:46:01 Concurrency Overhead for Run 64: 0.03 seconds
+2024/12/05 22:46:01 Memory Usage for Run 64: 0.01 MB
+2024/12/05 22:46:01 CPU Utilization for Run 64: 0.00%
+2024/12/05 22:46:01 
+Run 65/100...
+
+2024/12/05 22:46:01 Execution Time for Run 65: 0.03 seconds
+2024/12/05 22:46:01 Concurrency Overhead for Run 65: 0.03 seconds
+2024/12/05 22:46:01 Memory Usage for Run 65: 0.01 MB
+2024/12/05 22:46:01 CPU Utilization for Run 65: 0.00%
+2024/12/05 22:46:01 
+Run 66/100...
+
+2024/12/05 22:46:01 Execution Time for Run 66: 0.03 seconds
+2024/12/05 22:46:01 Concurrency Overhead for Run 66: 0.03 seconds
+2024/12/05 22:46:01 Memory Usage for Run 66: 0.01 MB
+2024/12/05 22:46:01 CPU Utilization for Run 66: 0.00%
+2024/12/05 22:46:01 
+Run 67/100...
+
+2024/12/05 22:46:02 Execution Time for Run 67: 0.03 seconds
+2024/12/05 22:46:02 Concurrency Overhead for Run 67: 0.03 seconds
+2024/12/05 22:46:02 Memory Usage for Run 67: 0.01 MB
+2024/12/05 22:46:02 CPU Utilization for Run 67: 0.00%
+2024/12/05 22:46:02 
+Run 68/100...
+
+2024/12/05 22:46:02 Execution Time for Run 68: 0.03 seconds
+2024/12/05 22:46:02 Concurrency Overhead for Run 68: 0.03 seconds
+2024/12/05 22:46:02 Memory Usage for Run 68: 0.01 MB
+2024/12/05 22:46:02 CPU Utilization for Run 68: 0.00%
+2024/12/05 22:46:02 
+Run 69/100...
+
+2024/12/05 22:46:02 Execution Time for Run 69: 0.03 seconds
+2024/12/05 22:46:02 Concurrency Overhead for Run 69: 0.03 seconds
+2024/12/05 22:46:02 Memory Usage for Run 69: 0.01 MB
+2024/12/05 22:46:02 CPU Utilization for Run 69: 0.00%
+2024/12/05 22:46:02 
+Run 70/100...
+
+2024/12/05 22:46:02 Execution Time for Run 70: 0.03 seconds
+2024/12/05 22:46:02 Concurrency Overhead for Run 70: 0.03 seconds
+2024/12/05 22:46:02 Memory Usage for Run 70: 0.01 MB
+2024/12/05 22:46:02 CPU Utilization for Run 70: 0.00%
+2024/12/05 22:46:02 
+Run 71/100...
+
+2024/12/05 22:46:02 Execution Time for Run 71: 0.03 seconds
+2024/12/05 22:46:02 Concurrency Overhead for Run 71: 0.03 seconds
+2024/12/05 22:46:02 Memory Usage for Run 71: 0.01 MB
+2024/12/05 22:46:02 CPU Utilization for Run 71: 0.00%
+2024/12/05 22:46:02 
+Run 72/100...
+
+2024/12/05 22:46:02 Execution Time for Run 72: 0.05 seconds
+2024/12/05 22:46:02 Concurrency Overhead for Run 72: 0.05 seconds
+2024/12/05 22:46:02 Memory Usage for Run 72: 0.01 MB
+2024/12/05 22:46:02 CPU Utilization for Run 72: 0.00%
+2024/12/05 22:46:02 
+Run 73/100...
+
+2024/12/05 22:46:02 Execution Time for Run 73: 0.03 seconds
+2024/12/05 22:46:02 Concurrency Overhead for Run 73: 0.03 seconds
+2024/12/05 22:46:02 Memory Usage for Run 73: 0.01 MB
+2024/12/05 22:46:02 CPU Utilization for Run 73: 0.00%
+2024/12/05 22:46:02 
+Run 74/100...
+
+2024/12/05 22:46:03 Execution Time for Run 74: 0.03 seconds
+2024/12/05 22:46:03 Concurrency Overhead for Run 74: 0.03 seconds
+2024/12/05 22:46:03 Memory Usage for Run 74: 0.01 MB
+2024/12/05 22:46:03 CPU Utilization for Run 74: 0.00%
+2024/12/05 22:46:03 
+Run 75/100...
+
+2024/12/05 22:46:03 Execution Time for Run 75: 0.03 seconds
+2024/12/05 22:46:03 Concurrency Overhead for Run 75: 0.03 seconds
+2024/12/05 22:46:03 Memory Usage for Run 75: 0.01 MB
+2024/12/05 22:46:03 CPU Utilization for Run 75: 0.00%
+2024/12/05 22:46:03 
+Run 76/100...
+
+2024/12/05 22:46:03 Execution Time for Run 76: 0.04 seconds
+2024/12/05 22:46:03 Concurrency Overhead for Run 76: 0.04 seconds
+2024/12/05 22:46:03 Memory Usage for Run 76: 0.01 MB
+2024/12/05 22:46:03 CPU Utilization for Run 76: 0.00%
+2024/12/05 22:46:03 
+Run 77/100...
+
+2024/12/05 22:46:03 Execution Time for Run 77: 0.03 seconds
+2024/12/05 22:46:03 Concurrency Overhead for Run 77: 0.03 seconds
+2024/12/05 22:46:03 Memory Usage for Run 77: 0.01 MB
+2024/12/05 22:46:03 CPU Utilization for Run 77: 0.00%
+2024/12/05 22:46:03 
+Run 78/100...
+
+2024/12/05 22:46:03 Execution Time for Run 78: 0.03 seconds
+2024/12/05 22:46:03 Concurrency Overhead for Run 78: 0.03 seconds
+2024/12/05 22:46:03 Memory Usage for Run 78: 0.01 MB
+2024/12/05 22:46:03 CPU Utilization for Run 78: 0.00%
+2024/12/05 22:46:03 
+Run 79/100...
+
+2024/12/05 22:46:03 Execution Time for Run 79: 0.03 seconds
+2024/12/05 22:46:03 Concurrency Overhead for Run 79: 0.03 seconds
+2024/12/05 22:46:03 Memory Usage for Run 79: 0.01 MB
+2024/12/05 22:46:03 CPU Utilization for Run 79: 0.00%
+2024/12/05 22:46:03 
+Run 80/100...
+
+2024/12/05 22:46:03 Execution Time for Run 80: 0.03 seconds
+2024/12/05 22:46:03 Concurrency Overhead for Run 80: 0.03 seconds
+2024/12/05 22:46:03 Memory Usage for Run 80: 0.01 MB
+2024/12/05 22:46:03 CPU Utilization for Run 80: 0.00%
+2024/12/05 22:46:03 
+Run 81/100...
+
+2024/12/05 22:46:04 Execution Time for Run 81: 0.03 seconds
+2024/12/05 22:46:04 Concurrency Overhead for Run 81: 0.03 seconds
+2024/12/05 22:46:04 Memory Usage for Run 81: 0.01 MB
+2024/12/05 22:46:04 CPU Utilization for Run 81: 0.00%
+2024/12/05 22:46:04 
+Run 82/100...
+
+2024/12/05 22:46:04 Execution Time for Run 82: 0.03 seconds
+2024/12/05 22:46:04 Concurrency Overhead for Run 82: 0.03 seconds
+2024/12/05 22:46:04 Memory Usage for Run 82: 0.01 MB
+2024/12/05 22:46:04 CPU Utilization for Run 82: 0.00%
+2024/12/05 22:46:04 
+Run 83/100...
+
+2024/12/05 22:46:04 Execution Time for Run 83: 0.03 seconds
+2024/12/05 22:46:04 Concurrency Overhead for Run 83: 0.03 seconds
+2024/12/05 22:46:04 Memory Usage for Run 83: 0.01 MB
+2024/12/05 22:46:04 CPU Utilization for Run 83: 0.00%
+2024/12/05 22:46:04 
+Run 84/100...
+
+2024/12/05 22:46:04 Execution Time for Run 84: 0.03 seconds
+2024/12/05 22:46:04 Concurrency Overhead for Run 84: 0.03 seconds
+2024/12/05 22:46:04 Memory Usage for Run 84: 0.01 MB
+2024/12/05 22:46:04 CPU Utilization for Run 84: 0.00%
+2024/12/05 22:46:04 
+Run 85/100...
+
+2024/12/05 22:46:04 Execution Time for Run 85: 0.03 seconds
+2024/12/05 22:46:04 Concurrency Overhead for Run 85: 0.03 seconds
+2024/12/05 22:46:04 Memory Usage for Run 85: 0.01 MB
+2024/12/05 22:46:04 CPU Utilization for Run 85: 0.00%
+2024/12/05 22:46:04 
+Run 86/100...
+
+2024/12/05 22:46:04 Execution Time for Run 86: 0.03 seconds
+2024/12/05 22:46:04 Concurrency Overhead for Run 86: 0.03 seconds
+2024/12/05 22:46:04 Memory Usage for Run 86: 0.01 MB
+2024/12/05 22:46:04 CPU Utilization for Run 86: 0.00%
+2024/12/05 22:46:04 
+Run 87/100...
+
+2024/12/05 22:46:04 Execution Time for Run 87: 0.03 seconds
+2024/12/05 22:46:04 Concurrency Overhead for Run 87: 0.03 seconds
+2024/12/05 22:46:04 Memory Usage for Run 87: 0.01 MB
+2024/12/05 22:46:04 CPU Utilization for Run 87: 0.00%
+2024/12/05 22:46:04 
+Run 88/100...
+
+2024/12/05 22:46:04 Execution Time for Run 88: 0.03 seconds
+2024/12/05 22:46:04 Concurrency Overhead for Run 88: 0.03 seconds
+2024/12/05 22:46:04 Memory Usage for Run 88: 0.01 MB
+2024/12/05 22:46:04 CPU Utilization for Run 88: 0.00%
+2024/12/05 22:46:04 
+Run 89/100...
+
+2024/12/05 22:46:05 Execution Time for Run 89: 0.03 seconds
+2024/12/05 22:46:05 Concurrency Overhead for Run 89: 0.03 seconds
+2024/12/05 22:46:05 Memory Usage for Run 89: 0.01 MB
+2024/12/05 22:46:05 CPU Utilization for Run 89: 0.00%
+2024/12/05 22:46:05 
+Run 90/100...
+
+2024/12/05 22:46:05 Execution Time for Run 90: 0.03 seconds
+2024/12/05 22:46:05 Concurrency Overhead for Run 90: 0.03 seconds
+2024/12/05 22:46:05 Memory Usage for Run 90: 0.01 MB
+2024/12/05 22:46:05 CPU Utilization for Run 90: 0.00%
+2024/12/05 22:46:05 
+Run 91/100...
+
+2024/12/05 22:46:05 Execution Time for Run 91: 0.03 seconds
+2024/12/05 22:46:05 Concurrency Overhead for Run 91: 0.03 seconds
+2024/12/05 22:46:05 Memory Usage for Run 91: 0.01 MB
+2024/12/05 22:46:05 CPU Utilization for Run 91: 0.00%
+2024/12/05 22:46:05 
+Run 92/100...
+
+2024/12/05 22:46:05 Execution Time for Run 92: 0.03 seconds
+2024/12/05 22:46:05 Concurrency Overhead for Run 92: 0.03 seconds
+2024/12/05 22:46:05 Memory Usage for Run 92: 0.01 MB
+2024/12/05 22:46:05 CPU Utilization for Run 92: 0.00%
+2024/12/05 22:46:05 
+Run 93/100...
+
+2024/12/05 22:46:05 Execution Time for Run 93: 0.03 seconds
+2024/12/05 22:46:05 Concurrency Overhead for Run 93: 0.03 seconds
+2024/12/05 22:46:05 Memory Usage for Run 93: 0.01 MB
+2024/12/05 22:46:05 CPU Utilization for Run 93: 0.00%
+2024/12/05 22:46:05 
+Run 94/100...
+
+2024/12/05 22:46:05 Execution Time for Run 94: 0.03 seconds
+2024/12/05 22:46:05 Concurrency Overhead for Run 94: 0.03 seconds
+2024/12/05 22:46:05 Memory Usage for Run 94: 0.01 MB
+2024/12/05 22:46:05 CPU Utilization for Run 94: 0.00%
+2024/12/05 22:46:05 
+Run 95/100...
+
+2024/12/05 22:46:05 Execution Time for Run 95: 0.03 seconds
+2024/12/05 22:46:05 Concurrency Overhead for Run 95: 0.03 seconds
+2024/12/05 22:46:05 Memory Usage for Run 95: 0.01 MB
+2024/12/05 22:46:05 CPU Utilization for Run 95: 0.00%
+2024/12/05 22:46:05 
+Run 96/100...
+
+2024/12/05 22:46:06 Execution Time for Run 96: 0.03 seconds
+2024/12/05 22:46:06 Concurrency Overhead for Run 96: 0.03 seconds
+2024/12/05 22:46:06 Memory Usage for Run 96: 0.01 MB
+2024/12/05 22:46:06 CPU Utilization for Run 96: 0.00%
+2024/12/05 22:46:06 
+Run 97/100...
+
+2024/12/05 22:46:06 Execution Time for Run 97: 0.03 seconds
+2024/12/05 22:46:06 Concurrency Overhead for Run 97: 0.03 seconds
+2024/12/05 22:46:06 Memory Usage for Run 97: 0.01 MB
+2024/12/05 22:46:06 CPU Utilization for Run 97: 0.00%
+2024/12/05 22:46:06 
+Run 98/100...
+
+2024/12/05 22:46:06 Execution Time for Run 98: 0.03 seconds
+2024/12/05 22:46:06 Concurrency Overhead for Run 98: 0.03 seconds
+2024/12/05 22:46:06 Memory Usage for Run 98: 0.01 MB
+2024/12/05 22:46:06 CPU Utilization for Run 98: 0.00%
+2024/12/05 22:46:06 
+Run 99/100...
+
+2024/12/05 22:46:06 Execution Time for Run 99: 0.03 seconds
+2024/12/05 22:46:06 Concurrency Overhead for Run 99: 0.03 seconds
+2024/12/05 22:46:06 Memory Usage for Run 99: 0.01 MB
+2024/12/05 22:46:06 CPU Utilization for Run 99: 0.00%
+2024/12/05 22:46:06 
+Run 100/100...
+
+2024/12/05 22:46:06 Execution Time for Run 100: 0.03 seconds
+2024/12/05 22:46:06 Concurrency Overhead for Run 100: 0.03 seconds
+2024/12/05 22:46:06 Memory Usage for Run 100: 0.01 MB
+2024/12/05 22:46:06 CPU Utilization for Run 100: 0.00%
+2024/12/05 22:46:06 
+Average Metrics:
+2024/12/05 22:46:06 Average Execution Time: 0.03 seconds
+2024/12/05 22:46:06 Average Concurrency Overhead: 0.03 seconds
+2024/12/05 22:46:06 Average Memory Usage: 0.01 MB
+2024/12/05 22:46:06 Average CPU Utilization: 0.00%
