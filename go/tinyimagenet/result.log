@@ -1,0 +1,513 @@
+2024/12/05 19:07:18 Dataset loaded successfully. Total Images: 0
+
+2024/12/05 19:07:18 
+Dataset Parameters:
+2024/12/05 19:07:18 Total Images: 0
+
+2024/12/05 19:07:18 Image Shape: 64 x 64 x 3 (Height x Width x Channels)
+
+2024/12/05 19:07:18 Number of Classes: 0
+
+2024/12/05 19:07:18 
+Run 1/100...
+
+2024/12/05 19:07:18 Execution Time for Run 1: 417ns
+
+2024/12/05 19:07:18 
+Run 2/100...
+
+2024/12/05 19:07:18 Execution Time for Run 2: 83ns
+
+2024/12/05 19:07:18 
+Run 3/100...
+
+2024/12/05 19:07:18 Execution Time for Run 3: 125ns
+
+2024/12/05 19:07:18 
+Run 4/100...
+
+2024/12/05 19:07:18 Execution Time for Run 4: 84ns
+
+2024/12/05 19:07:18 
+Run 5/100...
+
+2024/12/05 19:07:18 Execution Time for Run 5: 83ns
+
+2024/12/05 19:07:18 
+Run 6/100...
+
+2024/12/05 19:07:18 Execution Time for Run 6: 125ns
+
+2024/12/05 19:07:18 
+Run 7/100...
+
+2024/12/05 19:07:18 Execution Time for Run 7: 42ns
+
+2024/12/05 19:07:18 
+Run 8/100...
+
+2024/12/05 19:07:18 Execution Time for Run 8: 83ns
+
+2024/12/05 19:07:18 
+Run 9/100...
+
+2024/12/05 19:07:18 Execution Time for Run 9: 166ns
+
+2024/12/05 19:07:18 
+Run 10/100...
+
+2024/12/05 19:07:18 Execution Time for Run 10: 83ns
+
+2024/12/05 19:07:18 
+Run 11/100...
+
+2024/12/05 19:07:18 Execution Time for Run 11: 83ns
+
+2024/12/05 19:07:18 
+Run 12/100...
+
+2024/12/05 19:07:18 Execution Time for Run 12: 84ns
+
+2024/12/05 19:07:18 
+Run 13/100...
+
+2024/12/05 19:07:18 Execution Time for Run 13: 83ns
+
+2024/12/05 19:07:18 
+Run 14/100...
+
+2024/12/05 19:07:18 Execution Time for Run 14: 83ns
+
+2024/12/05 19:07:18 
+Run 15/100...
+
+2024/12/05 19:07:18 Execution Time for Run 15: 84ns
+
+2024/12/05 19:07:18 
+Run 16/100...
+
+2024/12/05 19:07:18 Execution Time for Run 16: 84ns
+
+2024/12/05 19:07:18 
+Run 17/100...
+
+2024/12/05 19:07:18 Execution Time for Run 17: 83ns
+
+2024/12/05 19:07:18 
+Run 18/100...
+
+2024/12/05 19:07:18 Execution Time for Run 18: 84ns
+
+2024/12/05 19:07:18 
+Run 19/100...
+
+2024/12/05 19:07:18 Execution Time for Run 19: 42ns
+
+2024/12/05 19:07:18 
+Run 20/100...
+
+2024/12/05 19:07:18 Execution Time for Run 20: 42ns
+
+2024/12/05 19:07:18 
+Run 21/100...
+
+2024/12/05 19:07:18 Execution Time for Run 21: 125ns
+
+2024/12/05 19:07:18 
+Run 22/100...
+
+2024/12/05 19:07:18 Execution Time for Run 22: 83ns
+
+2024/12/05 19:07:18 
+Run 23/100...
+
+2024/12/05 19:07:18 Execution Time for Run 23: 83ns
+
+2024/12/05 19:07:18 
+Run 24/100...
+
+2024/12/05 19:07:18 Execution Time for Run 24: 84ns
+
+2024/12/05 19:07:18 
+Run 25/100...
+
+2024/12/05 19:07:18 Execution Time for Run 25: 83ns
+
+2024/12/05 19:07:18 
+Run 26/100...
+
+2024/12/05 19:07:18 Execution Time for Run 26: 125ns
+
+2024/12/05 19:07:18 
+Run 27/100...
+
+2024/12/05 19:07:18 Execution Time for Run 27: 125ns
+
+2024/12/05 19:07:18 
+Run 28/100...
+
+2024/12/05 19:07:18 Execution Time for Run 28: 42ns
+
+2024/12/05 19:07:18 
+Run 29/100...
+
+2024/12/05 19:07:18 Execution Time for Run 29: 83ns
+
+2024/12/05 19:07:18 
+Run 30/100...
+
+2024/12/05 19:07:18 Execution Time for Run 30: 84ns
+
+2024/12/05 19:07:18 
+Run 31/100...
+
+2024/12/05 19:07:18 Execution Time for Run 31: 83ns
+
+2024/12/05 19:07:18 
+Run 32/100...
+
+2024/12/05 19:07:18 Execution Time for Run 32: 83ns
+
+2024/12/05 19:07:18 
+Run 33/100...
+
+2024/12/05 19:07:18 Execution Time for Run 33: 83ns
+
+2024/12/05 19:07:18 
+Run 34/100...
+
+2024/12/05 19:07:18 Execution Time for Run 34: 42ns
+
+2024/12/05 19:07:18 
+Run 35/100...
+
+2024/12/05 19:07:18 Execution Time for Run 35: 41ns
+
+2024/12/05 19:07:18 
+Run 36/100...
+
+2024/12/05 19:07:18 Execution Time for Run 36: 83ns
+
+2024/12/05 19:07:18 
+Run 37/100...
+
+2024/12/05 19:07:18 Execution Time for Run 37: 84ns
+
+2024/12/05 19:07:18 
+Run 38/100...
+
+2024/12/05 19:07:18 Execution Time for Run 38: 84ns
+
+2024/12/05 19:07:18 
+Run 39/100...
+
+2024/12/05 19:07:18 Execution Time for Run 39: 125ns
+
+2024/12/05 19:07:18 
+Run 40/100...
+
+2024/12/05 19:07:18 Execution Time for Run 40: 83ns
+
+2024/12/05 19:07:18 
+Run 41/100...
+
+2024/12/05 19:07:18 Execution Time for Run 41: 125ns
+
+2024/12/05 19:07:18 
+Run 42/100...
+
+2024/12/05 19:07:18 Execution Time for Run 42: 125ns
+
+2024/12/05 19:07:18 
+Run 43/100...
+
+2024/12/05 19:07:18 Execution Time for Run 43: 125ns
+
+2024/12/05 19:07:18 
+Run 44/100...
+
+2024/12/05 19:07:18 Execution Time for Run 44: 83ns
+
+2024/12/05 19:07:18 
+Run 45/100...
+
+2024/12/05 19:07:18 Execution Time for Run 45: 83ns
+
+2024/12/05 19:07:18 
+Run 46/100...
+
+2024/12/05 19:07:18 Execution Time for Run 46: 83ns
+
+2024/12/05 19:07:18 
+Run 47/100...
+
+2024/12/05 19:07:18 Execution Time for Run 47: 41ns
+
+2024/12/05 19:07:18 
+Run 48/100...
+
+2024/12/05 19:07:18 Execution Time for Run 48: 83ns
+
+2024/12/05 19:07:18 
+Run 49/100...
+
+2024/12/05 19:07:18 Execution Time for Run 49: 84ns
+
+2024/12/05 19:07:18 
+Run 50/100...
+
+2024/12/05 19:07:18 Execution Time for Run 50: 209ns
+
+2024/12/05 19:07:18 
+Run 51/100...
+
+2024/12/05 19:07:18 Execution Time for Run 51: 83ns
+
+2024/12/05 19:07:18 
+Run 52/100...
+
+2024/12/05 19:07:18 Execution Time for Run 52: 83ns
+
+2024/12/05 19:07:18 
+Run 53/100...
+
+2024/12/05 19:07:18 Execution Time for Run 53: 42ns
+
+2024/12/05 19:07:18 
+Run 54/100...
+
+2024/12/05 19:07:18 Execution Time for Run 54: 125ns
+
+2024/12/05 19:07:18 
+Run 55/100...
+
+2024/12/05 19:07:18 Execution Time for Run 55: 42ns
+
+2024/12/05 19:07:18 
+Run 56/100...
+
+2024/12/05 19:07:18 Execution Time for Run 56: 84ns
+
+2024/12/05 19:07:18 
+Run 57/100...
+
+2024/12/05 19:07:18 Execution Time for Run 57: 83ns
+
+2024/12/05 19:07:18 
+Run 58/100...
+
+2024/12/05 19:07:18 Execution Time for Run 58: 83ns
+
+2024/12/05 19:07:18 
+Run 59/100...
+
+2024/12/05 19:07:18 Execution Time for Run 59: 83ns
+
+2024/12/05 19:07:18 
+Run 60/100...
+
+2024/12/05 19:07:18 Execution Time for Run 60: 83ns
+
+2024/12/05 19:07:18 
+Run 61/100...
+
+2024/12/05 19:07:18 Execution Time for Run 61: 84ns
+
+2024/12/05 19:07:18 
+Run 62/100...
+
+2024/12/05 19:07:18 Execution Time for Run 62: 84ns
+
+2024/12/05 19:07:18 
+Run 63/100...
+
+2024/12/05 19:07:18 Execution Time for Run 63: 84ns
+
+2024/12/05 19:07:18 
+Run 64/100...
+
+2024/12/05 19:07:18 Execution Time for Run 64: 83ns
+
+2024/12/05 19:07:18 
+Run 65/100...
+
+2024/12/05 19:07:18 Execution Time for Run 65: 84ns
+
+2024/12/05 19:07:18 
+Run 66/100...
+
+2024/12/05 19:07:18 Execution Time for Run 66: 83ns
+
+2024/12/05 19:07:18 
+Run 67/100...
+
+2024/12/05 19:07:18 Execution Time for Run 67: 83ns
+
+2024/12/05 19:07:18 
+Run 68/100...
+
+2024/12/05 19:07:18 Execution Time for Run 68: 83ns
+
+2024/12/05 19:07:18 
+Run 69/100...
+
+2024/12/05 19:07:18 Execution Time for Run 69: 125ns
+
+2024/12/05 19:07:18 
+Run 70/100...
+
+2024/12/05 19:07:18 Execution Time for Run 70: 83ns
+
+2024/12/05 19:07:18 
+Run 71/100...
+
+2024/12/05 19:07:18 Execution Time for Run 71: 83ns
+
+2024/12/05 19:07:18 
+Run 72/100...
+
+2024/12/05 19:07:18 Execution Time for Run 72: 83ns
+
+2024/12/05 19:07:18 
+Run 73/100...
+
+2024/12/05 19:07:18 Execution Time for Run 73: 42ns
+
+2024/12/05 19:07:18 
+Run 74/100...
+
+2024/12/05 19:07:18 Execution Time for Run 74: 84ns
+
+2024/12/05 19:07:18 
+Run 75/100...
+
+2024/12/05 19:07:18 Execution Time for Run 75: 83ns
+
+2024/12/05 19:07:18 
+Run 76/100...
+
+2024/12/05 19:07:18 Execution Time for Run 76: 83ns
+
+2024/12/05 19:07:18 
+Run 77/100...
+
+2024/12/05 19:07:18 Execution Time for Run 77: 292ns
+
+2024/12/05 19:07:18 
+Run 78/100...
+
+2024/12/05 19:07:18 Execution Time for Run 78: 167ns
+
+2024/12/05 19:07:18 
+Run 79/100...
+
+2024/12/05 19:07:18 Execution Time for Run 79: 42ns
+
+2024/12/05 19:07:18 
+Run 80/100...
+
+2024/12/05 19:07:18 Execution Time for Run 80: 83ns
+
+2024/12/05 19:07:18 
+Run 81/100...
+
+2024/12/05 19:07:18 Execution Time for Run 81: 84ns
+
+2024/12/05 19:07:18 
+Run 82/100...
+
+2024/12/05 19:07:18 Execution Time for Run 82: 83ns
+
+2024/12/05 19:07:18 
+Run 83/100...
+
+2024/12/05 19:07:18 Execution Time for Run 83: 42ns
+
+2024/12/05 19:07:18 
+Run 84/100...
+
+2024/12/05 19:07:18 Execution Time for Run 84: 84ns
+
+2024/12/05 19:07:18 
+Run 85/100...
+
+2024/12/05 19:07:18 Execution Time for Run 85: 42ns
+
+2024/12/05 19:07:18 
+Run 86/100...
+
+2024/12/05 19:07:18 Execution Time for Run 86: 84ns
+
+2024/12/05 19:07:18 
+Run 87/100...
+
+2024/12/05 19:07:18 Execution Time for Run 87: 83ns
+
+2024/12/05 19:07:18 
+Run 88/100...
+
+2024/12/05 19:07:18 Execution Time for Run 88: 83ns
+
+2024/12/05 19:07:18 
+Run 89/100...
+
+2024/12/05 19:07:18 Execution Time for Run 89: 84ns
+
+2024/12/05 19:07:18 
+Run 90/100...
+
+2024/12/05 19:07:18 Execution Time for Run 90: 83ns
+
+2024/12/05 19:07:18 
+Run 91/100...
+
+2024/12/05 19:07:18 Execution Time for Run 91: 83ns
+
+2024/12/05 19:07:18 
+Run 92/100...
+
+2024/12/05 19:07:18 Execution Time for Run 92: 83ns
+
+2024/12/05 19:07:18 
+Run 93/100...
+
+2024/12/05 19:07:18 Execution Time for Run 93: 41ns
+
+2024/12/05 19:07:18 
+Run 94/100...
+
+2024/12/05 19:07:18 Execution Time for Run 94: 83ns
+
+2024/12/05 19:07:18 
+Run 95/100...
+
+2024/12/05 19:07:18 Execution Time for Run 95: 83ns
+
+2024/12/05 19:07:18 
+Run 96/100...
+
+2024/12/05 19:07:18 Execution Time for Run 96: 125ns
+
+2024/12/05 19:07:18 
+Run 97/100...
+
+2024/12/05 19:07:18 Execution Time for Run 97: 83ns
+
+2024/12/05 19:07:18 
+Run 98/100...
+
+2024/12/05 19:07:18 Execution Time for Run 98: 83ns
+
+2024/12/05 19:07:18 
+Run 99/100...
+
+2024/12/05 19:07:18 Execution Time for Run 99: 83ns
+
+2024/12/05 19:07:18 
+Run 100/100...
+
+2024/12/05 19:07:18 Execution Time for Run 100: 166ns
+
+2024/12/05 19:07:18 
+Average Execution Time after 100 runs: 91ns
+
