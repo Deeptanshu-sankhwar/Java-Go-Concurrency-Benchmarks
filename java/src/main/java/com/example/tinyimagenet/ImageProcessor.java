@@ -155,7 +155,7 @@ public class ImageProcessor {
     }
 
     // Log message to file
-    private static void logMessage(String filePath, String message) {
+    public static void logMessage(String filePath, String message) {
         try (PrintWriter out = new PrintWriter(new FileWriter(filePath, true))) {
             out.println(message);
             System.out.println(message);
@@ -164,3 +164,4 @@ public class ImageProcessor {
         }
     }
 }
+
