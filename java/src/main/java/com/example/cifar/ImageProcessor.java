@@ -90,15 +90,24 @@ public class ImageProcessor {
         logMessage(LOG_FILE_PATH, String.format("Average Concurrency Overhead: %.2f seconds", averageOverheadTime / 1e9));
     }
 
-    // Load CIFAR-10 dataset once into memory
-    private static List<float[][]> loadCifar10Dataset(String dataDir) throws IOException {
+    static List<float[][]> loadCifar10Dataset(String dataDir) throws IOException {
         List<float[][]> allBatches = new ArrayList<>();
         for (int i = 1; i <= 5; i++) {
             String filePath = dataDir + String.format("data_batch_%d.bin", i);
             logMessage(LOG_FILE_PATH, String.format("Loading batch: %s\n", filePath));
 
-            try (DataInputStream dis = new DataInputStream(new FileInputStream(filePath))) {
+            File file = new File(filePath);
+            long expectedSize = NUM_IMAGES_PER_BATCH * (1 + IMAGE_SIZE); // 1 byte for label + IMAGE_SIZE bytes for image
+            if (file.length() < expectedSize) {
+                throw new IOException(String.format("File %s is smaller than expected. Size: %d bytes, Expected: %d bytes",
+                        filePath, file.length(), expectedSize));
+            }
+
+            try (DataInputStream dis = new DataInputStream(new FileInputStream(file))) {
                 for (int j = 0; j < NUM_IMAGES_PER_BATCH; j++) {
+                    if (dis.available() < (1 + IMAGE_SIZE)) {
+                        throw new EOFException(String.format("Unexpected end of file in %s while reading image %d", filePath, j));
+                    }
                     dis.readByte(); // Read label (1 byte)
                     float[] image = new float[IMAGE_SIZE];
                     for (int k = 0; k < IMAGE_SIZE; k++) {
@@ -111,7 +120,7 @@ public class ImageProcessor {
         return allBatches;
     }
 
-    private static void produceBatches(List<float[][]> allBatches, BlockingQueue<float[][]> queue, AtomicBoolean isDoneProducing) {
+    static void produceBatches(List<float[][]> allBatches, BlockingQueue<float[][]> queue, AtomicBoolean isDoneProducing) {
         try {
             for (float[][] batch : allBatches) {
                 queue.put(batch);
@@ -151,7 +160,7 @@ public class ImageProcessor {
         }
     }
 
-    private static void processBatch(float[][] batch) {
+    static void processBatch(float[][] batch) {
         for (float[] image : batch) {
             for (int i = 0; i < image.length; i++) {
                 image[i] *= 2;
@@ -159,7 +168,7 @@ public class ImageProcessor {
         }
     }
 
-    private static void logMessage(String filePath, String message) {
+    static void logMessage(String filePath, String message) {
         try (PrintWriter out = new PrintWriter(new FileWriter(filePath, true))) {
             out.println(message);
             System.out.println(message);
